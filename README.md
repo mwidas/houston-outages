@@ -3,6 +3,7 @@
 Exploration of Houston, TX power outages after 3 storms in February 2021 
 
 
+```{r}
 Houston-Outages
 │   README.md
 │   Rmd/Proj files    
@@ -16,3 +17,4 @@ Houston-Outages
     |
     └───VNP46A1
     |   │   VIIRS data files
+```
