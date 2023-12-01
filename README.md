@@ -5,7 +5,7 @@ Exploration of Houston, TX power outages after 3 storms in February 2021
 
 
 ## Data
-The data associated with this project was accessed from this [link] (https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view) . Unzip the folder and all the contents and store in your directory as follows.
+The data associated with this project was accessed from this [link](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view) . Unzip the folder and all the contents and store in your directory as follows.
 
 ```{r}
 Houston-Outages
